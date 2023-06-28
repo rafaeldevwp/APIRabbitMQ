@@ -6,6 +6,7 @@ C:\Users\Faell\source\repos\APIRabbitMQ\bin\Debug\net6.0\APIRabbitMQ.runtimeconf
 C:\Users\Faell\source\repos\APIRabbitMQ\bin\Debug\net6.0\APIRabbitMQ.dll
 C:\Users\Faell\source\repos\APIRabbitMQ\bin\Debug\net6.0\APIRabbitMQ.pdb
 C:\Users\Faell\source\repos\APIRabbitMQ\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Faell\source\repos\APIRabbitMQ\bin\Debug\net6.0\RabbitMQ.Client.dll
 C:\Users\Faell\source\repos\APIRabbitMQ\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Faell\source\repos\APIRabbitMQ\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Faell\source\repos\APIRabbitMQ\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -25,8 +26,3 @@ C:\Users\Faell\source\repos\APIRabbitMQ\obj\Debug\net6.0\refint\APIRabbitMQ.dll
 C:\Users\Faell\source\repos\APIRabbitMQ\obj\Debug\net6.0\APIRabbitMQ.pdb
 C:\Users\Faell\source\repos\APIRabbitMQ\obj\Debug\net6.0\APIRabbitMQ.genruntimeconfig.cache
 C:\Users\Faell\source\repos\APIRabbitMQ\obj\Debug\net6.0\ref\APIRabbitMQ.dll
-C:\Users\Faell\source\repos\APIRabbitMQ\bin\Debug\net6.0\Application\obj\Application.csproj.nuget.dgspec.json
-C:\Users\Faell\source\repos\APIRabbitMQ\bin\Debug\net6.0\Application\obj\project.assets.json
-C:\Users\Faell\source\repos\APIRabbitMQ\bin\Debug\net6.0\Infra\obj\Infra.csproj.nuget.dgspec.json
-C:\Users\Faell\source\repos\APIRabbitMQ\bin\Debug\net6.0\Infra\obj\project.assets.json
-C:\Users\Faell\source\repos\APIRabbitMQ\bin\Debug\net6.0\RabbitMQ.Client.dll

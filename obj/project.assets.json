@@ -1706,11 +1706,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Faell\\source\\repos\\APIRabbitMQ\\APIRabbitMQ.csproj",
+      "projectUniqueName": "C:\\Users\\Faell\\source\\repos\\APIRabbitMQ\\APIRabbitMQ.csproj",
       "projectName": "APIRabbitMQ",
-      "projectPath": "c:\\Users\\Faell\\source\\repos\\APIRabbitMQ\\APIRabbitMQ.csproj",
+      "projectPath": "C:\\Users\\Faell\\source\\repos\\APIRabbitMQ\\APIRabbitMQ.csproj",
       "packagesPath": "C:\\Users\\Faell\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Faell\\source\\repos\\APIRabbitMQ\\obj\\",
+      "outputPath": "C:\\Users\\Faell\\source\\repos\\APIRabbitMQ\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Faell\\AppData\\Roaming\\NuGet\\NuGet.Config",
